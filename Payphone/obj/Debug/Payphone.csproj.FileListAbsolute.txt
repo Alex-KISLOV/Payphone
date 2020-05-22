@@ -1,0 +1,10 @@
+C:\Users\Alexander\Desktop\Курсач 2\Payphone\bin\Debug\Payphone.exe.config
+C:\Users\Alexander\Desktop\Курсач 2\Payphone\bin\Debug\Payphone.exe
+C:\Users\Alexander\Desktop\Курсач 2\Payphone\bin\Debug\Payphone.pdb
+C:\Users\Alexander\Desktop\Курсач 2\Payphone\obj\Debug\Payphone.csprojAssemblyReference.cache
+C:\Users\Alexander\Desktop\Курсач 2\Payphone\obj\Debug\Payphone.Form1.resources
+C:\Users\Alexander\Desktop\Курсач 2\Payphone\obj\Debug\Payphone.Properties.Resources.resources
+C:\Users\Alexander\Desktop\Курсач 2\Payphone\obj\Debug\Payphone.csproj.GenerateResource.cache
+C:\Users\Alexander\Desktop\Курсач 2\Payphone\obj\Debug\Payphone.csproj.CoreCompileInputs.cache
+C:\Users\Alexander\Desktop\Курсач 2\Payphone\obj\Debug\Payphone.exe
+C:\Users\Alexander\Desktop\Курсач 2\Payphone\obj\Debug\Payphone.pdb
